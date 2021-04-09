@@ -1,6 +1,6 @@
 ---
 :lessons:
-- :id: 13659
-  :course_id: 600
-  :canvas_url: https://learning.flatironschool.com/courses/600/pages/introduction-to-canvas
+- :id: intro-to-canvas
+  :course_id: 3280
+  :canvas_url: https://learning.flatironschool.com/courses/3280/pages/intro-to-canvas
   :type: page
